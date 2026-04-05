@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📌 Live Interactive Dashboard
-👉 **[View the Live Dashboard Here](https://[your-username].github.io/[your-repo-name]/)** *(Note: Replace this bracketed text with your actual GitHub Pages link once generated!)*
+👉 **[View the Live Dashboard Here](https://rahulkumarmalik.github.io/operations-efficiency-dashboard/)**
 
 ## 🏢 Business Problem
 A mid-size e-commerce operation was experiencing fulfilling delays and stockouts. Management lacked visibility into the supply chain lifecycle, making it impossible to identify whether delays were caused by supplier unreliability, warehouse processing lags, or capacity constraints.
