@@ -15,13 +15,6 @@ Designed a relational supply chain database and engineered an end-to-end analyti
 - Developed a **Capacity Planning Model** leveraging trend extrapolation to recommend a 15% staff reallocation, reducing fulfillment delays.
 
 ## 🛠️ Repository Structure
-- `app.py`: The interactive Streamlit dashboard simulating the final Power BI presentation.
-- `requirements.txt`: Python dependencies for the web app.
 - `data_generator.py`: Python script utilizing `Faker` and `Pandas` to generate 80,000+ rows of realistic operational mock data.
 - `1_schema_setup.sql`: DDL scripts establishing the normalized relational database structure.
 - `2_bottleneck_analysis.sql`: Advanced SQL queries for cycle time analysis and lead-time deviation calculations.
-
-## 🚀 How to Run Locally
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the dashboard: `streamlit run app.py`
-3. (Optional) Run `python data_generator.py` to generate raw CSV data for MySQL testing.
